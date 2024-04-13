@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="/static/static/style/plugins.xsl" ?>
+<plugins>
+   <pyqgis_plugin name="Мастер созданиея ЗОУИТ" version="2.1.0">
+       <qgis_minimum_version>3.0.0</qgis_minimum_version>
+        <description>ХЗ</description>
+        <file_name>zouit_builder.zip</file_name>
+        <download_url>https://gitflic.ru/project/super-gagarin/dvn_qgis_plugin/blob?file=zouit_builder.zip</download_url>
+        <author_name>Дроваль Валентин Николаевич</author_name>
+        <version>0.1</version>
+        <experimental>True</experimental>
+        <about>На основании геодезической съемки в формате dwg/dxf данный плагин конвертирует данные из AutoCAD в NextGIS с использованием FME; подгатавливает по шаблону графику для заказчика работ.</about>
+   </pyqgis_plugin>
+</plugins>
